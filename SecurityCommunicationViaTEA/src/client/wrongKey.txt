@@ -1,0 +1,4 @@
+IBetTheyUseThisKeyAsTheSecret
+joem
+sesame
+-79.940450,40.437394,0.00000
